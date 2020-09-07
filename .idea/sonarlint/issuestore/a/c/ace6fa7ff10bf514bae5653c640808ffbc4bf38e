@@ -1,0 +1,11 @@
+
+‚
+java:S1104"`Make mOriginalNoteCouseId a static final constant or non-public and provide accessors if needed.(Ï‚½­ùÿÿÿÿ8¹ÔõÌ¾.
+w
+java:S1104"UMake mNoteText a static final constant or non-public and provide accessors if needed.(õ¸±ıÿÿÿÿ8¹ÔõÌ¾.
+x
+java:S1104"VMake mNoteTitle a static final constant or non-public and provide accessors if needed.(‰ƒãáıÿÿÿÿ8¹ÔõÌ¾.
+x
+java:S1104"[Make mIsNewlyCreated a static final constant or non-public and provide accessors if needed.(Ú¹‘à8¹ÔõÌ¾.
+q
+java:S1104"TMake mNoteUri a static final constant or non-public and provide accessors if needed.(¨·8ÎÖçøÂ.

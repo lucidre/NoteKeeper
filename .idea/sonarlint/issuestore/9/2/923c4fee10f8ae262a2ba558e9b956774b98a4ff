@@ -1,0 +1,18 @@
+
+>	java:S1087")Either remove or fill this block of code.(±•å•
+
+java:S3252"pUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$CoursesIdColumns" for "COLUMN_COURSE_ID".(í•„Ä8» ÌªÂ.
+
+java:S3252""kUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$NotesColumn" for "COLUMN_NOTE_TEXT".(Ğ·µşÿÿÿÿ8» ÌªÂ.
+
+java:S3252!"lUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$NotesColumn" for "COLUMN_NOTE_TITLE".(˜ªÂëùÿÿÿÿ8» ÌªÂ.
+’
+java:S3252 "pUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$CoursesIdColumns" for "COLUMN_COURSE_ID".(ãµÛ²øÿÿÿÿ8» ÌªÂ.
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Û™
+’
+java:S3252"pUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$CoursesIdColumns" for "COLUMN_COURSE_ID".(Ïè¾úÿÿÿÿ8» ÌªÂ.
+ˆ
+java:S3252"lUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$NotesColumn" for "COLUMN_NOTE_TITLE".(©›8» ÌªÂ.
+ˆ
+java:S3252"kUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$NotesColumn" for "COLUMN_NOTE_TEXT".(„ìîÙ8» ÌªÂ.

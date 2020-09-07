@@ -1,0 +1,43 @@
+
+f
+java:S1134>"DTake the required action to fix the issue indicated by this comment.(’Á½øÿÿÿÿ8¢ôÔÂ.
+f
+java:S1134Z"DTake the required action to fix the issue indicated by this comment.(Œ›¥Ëıÿÿÿÿ8¢²ÇªÂ.
+“
+java:S3252ï"pUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$CoursesIdColumns" for "COLUMN_COURSE_ID".(€°°üÿÿÿÿ8È½È­Â.
+I
+java:S10685",Remove this unused "mCourses" private field.(Úƒâã8¢²ÇªÂ.
+“
+java:S3252ï"pUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$CoursesColumn" for "COLUMN_COURSE_TITLE".(€°°üÿÿÿÿ8İ‚„Á.
+t	java:S1169"XRename this field "LOADER_COURSE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œ²ŠÜ8–µ„¨Â.
+[
+java:S1874a"9Remove this use of "setDrawerListener"; it is deprecated.(ø¶Âßÿÿÿÿÿ8¢²ÇªÂ.
+…
+java:S3252¹"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".( Ò§8È½È­Â.
+
+java:S3252Ù"pUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$CoursesColumn" for "COLUMN_COURSE_TITLE".(ù§›8İ‚„Á.
+U
+java:S1444;"9Make this "public static NOTIFICATION_NUMBER" field final(âá8Á©¤÷Â.
+z
+java:S14503"^Remove the "mNavigationView" field and declare it as a local variable in the relevant methods.(áœ¬,8¢²ÇªÂ.
+Š
+java:S3252Ù"lUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$NotesColumn" for "COLUMN_NOTE_TITLE".(ù§›8İ‚„Á.
+
+java:S3252Ú"lUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$NotesColumn" for "COLUMN_NOTE_TITLE".(¯’ñşÿÿÿÿ8È½È­Â.
+…
+java:S3252³"gUse static access with "com.google.android.material.snackbar.BaseTransientBottomBar" for "LENGTH_LONG".(ä²û’8È½È­Â.
+f
+java:S1134="DTake the required action to fix the issue indicated by this comment.(«Õ¢şÿÿÿÿ8¢ôÔÂ.
+{
+java:S1104;"_Make NOTIFICATION_NUMBER a static final constant or non-public and provide accessors if needed.(âá8Á©¤÷Â.
+x	java:S1168"WRename this field "LOADER_NOTES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ªË­úÿÿÿÿ8¢²ÇªÂ.
+z
+java:S3008;"^Rename this field "NOTIFICATION_NUMBER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(âá8Á©¤÷Â.
+
+java:S3252ğ"pUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$CoursesColumn" for "COLUMN_COURSE_TITLE".(Å‹Ÿâ8È½È­Â.
+K
+java:S1144Á".Remove this unused private "loadNotes" method.(¬«”Z8¢²ÇªÂ.
+“
+java:S3252Ú"pUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$CoursesColumn" for "COLUMN_COURSE_TITLE".(¯’ñşÿÿÿÿ8È½È­Â.
+v
+java:S2637ó"XThis method's return value is marked "androidx.annotation.NonNull" but null is returned.(¼±ñÍ8È½È­Â.

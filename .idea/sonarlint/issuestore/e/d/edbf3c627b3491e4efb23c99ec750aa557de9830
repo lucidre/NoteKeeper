@@ -1,0 +1,51 @@
+
+“
+java:S3252Š"pUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$CoursesColumn" for "COLUMN_COURSE_TITLE".(¡¿´¶şÿÿÿÿ8¿Á»ÕÂ.
+D	java:S131À""Add a default case to this switch.(í÷€Øúÿÿÿÿ8¿Á»ÕÂ.
+‰
+java:S3252ğ"lUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$NotesColumn" for "COLUMN_NOTE_TITLE".(¨”ı
+8ŒşƒÁ.
+“
+java:S3252ˆ"pUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$CoursesColumn" for "COLUMN_COURSE_TITLE".(‘ ÊÂşÿÿÿÿ8¶®»²Â.
+n
+java:S1301À"KReplace this "switch" statement by "if" statements to increase readability.(í÷€Øúÿÿÿÿ8¿Á»ÕÂ.
+f
+java:S1134."DTake the required action to fix the issue indicated by this comment.(ı½±äşÿÿÿÿ8ŒşƒÁ.
+d
+java:S2184ö"FCast one of the operands of this multiplication operation to a "long".(¨™ÖÏ8¡ÙíÕÂ.
+K
+java:S1481ö"-Remove this unused "ONE_HOUR" local variable.(¨™ÖÏ8‰û…×Â.
+F	java:S108¬")Either remove or fill this block of code.(±•å•8¶®»²Â.
+n	java:S128È"LEnd this switch case with an unconditional break, return or throw statement.(Ÿ”¦­üÿÿÿÿ8¶®»²Â.
+“
+java:S3252¥"pUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$CoursesIdColumns" for "COLUMN_COURSE_ID".(œÒÇÎşÿÿÿÿ8¿Á»ÕÂ.
+|
+java:S1450K"ZRemove the "mCursorSize" field and declare it as a local variable in the relevant methods.(äŸ±ÿşÿÿÿÿ8ŒşƒÁ.
+D	java:S131¾""Add a default case to this switch.(Ò“ÿšùÿÿÿÿ8¶®»²Â.
+“
+java:S3252ˆ"pUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$CoursesIdColumns" for "COLUMN_COURSE_ID".(‘ ÊÂşÿÿÿÿ8¿Á»ÕÂ.
+ˆ
+java:S3252ñ"kUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$NotesColumn" for "COLUMN_NOTE_TEXT".(íË·8¶®»²Â.
+F
+java:S10687")Remove this unused "mNote" private field.(³ Œ¢8ŒşƒÁ.
+c
+java:S1128"ARemove this unused import 'androidx.core.app.AlarmManagerCompat'.(ğäÈ©úÿÿÿÿ8ƒĞËÕÂ.
+Q
+java:S1068K"/Remove this unused "mCursorSize" private field.(äŸ±ÿşÿÿÿÿ8ŒşƒÁ.
+n	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨™ÖÏ8¡ÙíÕÂ.
+
+java:S3252¥"lUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$NotesColumn" for "COLUMN_NOTE_TITLE".(œÒÇÎşÿÿÿÿ8¿Á»ÕÂ.
+“
+java:S3252ï"pUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$CoursesIdColumns" for "COLUMN_COURSE_ID".(Ä„Èšúÿÿÿÿ8ŒÊ‚¶À.
+n	java:S117÷"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨İ8•Î…×Â.
+“
+java:S3252¥"pUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$CoursesColumn" for "COLUMN_COURSE_TITLE".(œÒÇÎşÿÿÿÿ8¿Á»ÕÂ.
+m	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃÖ…}8¿Á»ÕÂ.
+U
+java:S2589ì"7Remove this expression which always evaluates to "true"(÷ò¬í8¿Á»ÕÂ.
+n
+java:S1128"LRemove this unused import 'android.support.v4.app.INotificationSideChannel'.(Ğ• Äüÿÿÿÿ8™®ä§Â.
+
+java:S3252¥"kUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$NotesColumn" for "COLUMN_NOTE_TEXT".(œÒÇÎşÿÿÿÿ8¿Á»ÕÂ.
+I
+java:S1068?",Remove this unused "mCourses" private field.(Úƒâã8ŒşƒÁ.

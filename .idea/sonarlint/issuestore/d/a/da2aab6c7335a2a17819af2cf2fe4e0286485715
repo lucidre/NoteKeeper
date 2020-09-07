@@ -1,0 +1,8 @@
+
+T
+java:S1144•"6Remove this unused private "initializeCourses" method.(ÏÌ¿å8‚óŞç½.
+U
+java:S3400V"9Remove this method and declare a constant for this value.(ê‚8‚óŞç½.
+V
+java:S3400Z"9Remove this method and declare a constant for this value.(ªëó¾8‚óŞç½.
+o	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œó”óùÿÿÿÿ8Öç‡ç½.

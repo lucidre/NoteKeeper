@@ -1,0 +1,17 @@
+
+N
+java:S1068!",Remove this unused "mCourses" private field.(Ù‹Â‚ûÿÿÿÿ8äÎÌ¾.
+“
+java:S3252¬"pUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$CoursesColumn" for "COLUMN_COURSE_TITLE".(¯’ñşÿÿÿÿ8«Ïº…Á.
+G
+java:S1068""*Remove this unused "mNotes" private field.(éµõ»8Œ®›µÀ.
+‰
+java:S3252«"lUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$NotesColumn" for "COLUMN_NOTE_TITLE".(—é8«Ïº…Á.
+v
+java:S2637²"XThis method's return value is marked "androidx.annotation.NonNull" but null is returned.(¼±ñÍ8‚Ö¥µÀ.
+
+java:S3252«"pUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$CoursesColumn" for "COLUMN_COURSE_TITLE".(—é8«Ïº…Á.
+
+java:S1128"kRemove this unused import 'com.jwhh.notekeeper.NoteKeeperDatabaseContract.NoteInfoEntry.COLUMN_NOTE_TITLE'.(Ò ¥Àøÿÿÿÿ8·‘¥µÀ.
+
+java:S3252¬"lUse static access with "com.jwhh.notekeeper.NoteKeeperProviderContract$NotesColumn" for "COLUMN_NOTE_TITLE".(¯’ñşÿÿÿÿ8«Ïº…Á.

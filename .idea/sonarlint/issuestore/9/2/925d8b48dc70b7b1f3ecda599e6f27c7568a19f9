@@ -1,0 +1,10 @@
+
+D	java:S131›""Add a default case to this switch.(ƒ³»ƒúÿÿÿÿ8íˆÉ×À.
+r	java:S117z"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÕ‹‚øÿÿÿÿ8íˆÉ×À.
+>	java:S1318""Add a default case to this switch.(Ç€ôÁ8“Ó›»À.
+>	java:S131Z""Add a default case to this switch.(Ç€ôÁ8ÖÔô³À.
+j	java:S100¹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡´Š	8íˆÉ×À.
+C	java:S131{""Add a default case to this switch.(ÏÝÙÙüÿÿÿÿ8íˆÉ×À.
+ž
+java:S1186,"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ï‘¶î8š½ì³À.
+?	java:S131Ï""Add a default case to this switch.(Ç€ôÁ8íˆÉ×À.
